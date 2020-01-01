@@ -1,7 +1,7 @@
 {
     "name": "femdown",
     "description": "FrontendMasters downloader",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "byungi <tiniwz@gmail.com>",
     "repository": "https://github.com/skt-t1-byungi/femdown.git",
     "main": "lib/index.js",
