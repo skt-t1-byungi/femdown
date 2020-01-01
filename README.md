@@ -10,7 +10,7 @@ npm i -g femdown
 
 #### without Install
 ```sh
-npx fem
+npx femdown
 ```
 
 ## Requirement
