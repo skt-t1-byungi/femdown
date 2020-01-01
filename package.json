@@ -20,12 +20,12 @@
     "bin": "./lib/cli.js",
     "dependencies": {
         "@byungi/p-cancel-saga": "^0.2.1",
+        "@byungi/p-delay": "^0.2.0",
         "@byungi/p-retry": "^0.2.1",
         "cheerio": "^1.0.0-rc.3",
         "chrome-finder": "^1.0.6",
         "is-valid-path": "^0.1.1",
         "kax": "^2.0.1",
-        "p-limit": "^2.2.1",
         "phin": "^3.4.1",
         "prompts": "^2.3.0",
         "puppeteer-core": "^2.0.0",
