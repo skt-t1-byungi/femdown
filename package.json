@@ -1,6 +1,6 @@
 {
     "name": "femdown",
-    "description": "FrontendMasters(https://frontendmasters.com/) downloader",
+    "description": "FrontendMasters downloader",
     "version": "0.0.1",
     "author": "byungi <tiniwz@gmail.com>",
     "repository": "https://github.com/skt-t1-byungi/femdown.git",

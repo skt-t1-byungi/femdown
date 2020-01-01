@@ -1,5 +1,5 @@
 # femdown 👹
-> FrontendMasters(https://frontendmasters.com/) downloader
+> FrontendMasters downloader
 
 [![npm](https://badgen.net/npm/v/femdown)](https://www.npmjs.com/package/femdown)
 
