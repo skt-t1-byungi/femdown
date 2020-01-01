@@ -19,7 +19,6 @@
     },
     "bin": "./lib/cli.js",
     "dependencies": {
-        "@byungi/p-await-of": "^0.2.0",
         "@byungi/p-cancel-saga": "^0.2.1",
         "@byungi/p-retry": "^0.2.1",
         "cheerio": "^1.0.0-rc.3",
