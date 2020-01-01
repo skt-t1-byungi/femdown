@@ -25,7 +25,6 @@ npx femdown
   Options
     --format, -f  mp4|webm
     --resolution, -r  row|medium|high
-    --dir, -d  directory
 
   Examples
     $ femdown
